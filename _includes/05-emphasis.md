@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* Some skill I want to learn in 2021: _Flutter_, **Mobile Development**, **Backend with .NET 5** (_maybe?_)
